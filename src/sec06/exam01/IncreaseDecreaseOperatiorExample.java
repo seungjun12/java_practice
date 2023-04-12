@@ -10,7 +10,7 @@ public class IncreaseDecreaseOperatiorExample {
 	
 		x++;
 		++x;
-		
+		System.out.println("dddd");
 		System.out.println("X =" + x);
 		System.out.println("-----------------");
 		
