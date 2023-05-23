@@ -19,6 +19,9 @@ public class ArrayCreateByValueListExample {
 		double averege = (double) sum/3;
 		System.out.println("평균은:" +averege);
 		
+		
+		
+		System.out.println("모니터 테스트 입니다.");
 	}
 
 }
